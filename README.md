@@ -19,6 +19,7 @@ In Taiwan, zebrafish laboratories commonly use LINE as their primary platform fo
 5. Text Summarization: Records LINE group discussions and generates summaries for easy review.
 6. PubMed Abstract Parsing: Extracts and summarizes research abstracts from PubMed links in Chinese.
 7. Image Recognition: Processes uploaded images to recognize content or extract English text for note-taking purposes.
+
 Zebrafisher streamlines group and individual communications in zebrafish labs by assisting with protocol retrieval, research summaries, FAQs, and more. It reduces onboarding barriers for new members by facilitating quick access to essential knowledge and resources. With its versatile capabilities, Zebrafisher serves as a powerful tool for enhancing efficiency and productivity in zebrafish research laboratories.  
 
 **Lab Webpage: [http://lbk.tw/](http://lbk.tw/)**
