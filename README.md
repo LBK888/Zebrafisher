@@ -1,6 +1,21 @@
 ---
 license: apache-2.0
 ---
+**requirement**
+minimal hardware: RTX3060 12GB vram / 64GB ram / 1TB SSD
+software: 
+1. n8n on node.js
+2. docker for supabase
+3. ollama with local LLM (or LLM api keys)
+4. ngrok for line webhook (or certified https server)
+5. Faster-Whisper-XXL
+6. line bussiness and development account
+
+**installation**
+The n8n workflow file is available upon request
+The workflow snapshot:
+![image](https://github.com/user-attachments/assets/c57ee1ac-edd1-4253-9f75-d77198eac64a)
+
 **Zebrafisher is linebot of LLM-based Lab assistant**
 Zebrafisher can be either locally installed or linked to cloud LLM+VectorDB
 The n8n workflow is available upon request.
