@@ -1,6 +1,11 @@
 ---
 license: apache-2.0
 ---
+**Zebrafisher is linebot of LLM-based Lab assistant**
+Zebrafisher can be either locally installed or linked to cloud LLM+VectorDB
+The n8n workflow is available upon request.
+For more details, please read the abstract below.
+
 **requirement**
 minimal hardware: RTX3060 12GB vram / 64GB ram / 1TB SSD
 software: 
@@ -12,15 +17,11 @@ software:
 6. line bussiness and development account
 
 **installation**
-The n8n workflow file is available upon request
+The n8n workflow file is available upon request 
 The workflow snapshot:
 ![image](https://github.com/user-attachments/assets/c57ee1ac-edd1-4253-9f75-d77198eac64a)
 
-**Zebrafisher is linebot of LLM-based Lab assistant**
-Zebrafisher can be either locally installed or linked to cloud LLM+VectorDB
-The n8n workflow is available upon request.
-For more details, please read the abstract below.
-
+**Abstract**
 **Zebrafisher: the LLM-Based Lab Assistant Agent for Zebrafish Research** 
 Bo-Kai Liao
 Department of Aquaculture, National Taiwan Ocean University, Keelung, Taiwan
